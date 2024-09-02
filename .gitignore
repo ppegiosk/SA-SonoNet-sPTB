@@ -1,0 +1,7 @@
+__pycache__
+data/*
+metadata/*
+models/*
+results/*
+models/*
+src/models/weights/dtunet/*
