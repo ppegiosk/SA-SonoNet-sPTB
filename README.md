@@ -2,11 +2,9 @@
 
 [Paraskevas Pegios](https://scholar.google.com/citations?user=LVACmX4AAAAJ&hl=en&oi=ao), [Emilie Pi Fogtmann Sejer](https://scholar.google.com/citations?user=NHOOZJQAAAAJ&hl=en&oi=ao), [Manxi Lin](https://scholar.google.com/citations?user=RApnUsEAAAAJ&hl=en&oi=ao), [Zahra Bashir](https://scholar.google.com/citations?user=0zqLt7oAAAAJ&hl=en&oi=ao), [Morten Bo Søndergaard Svendsen](https://scholar.google.com/citations?user=U7YuapkAAAAJ&hl=en&oi=ao), [Mads Nielsen](https://scholar.google.com/citations?user=2QCJXEkAAAAJ&hl=en&oi=ao), [Eike Petersen](https://scholar.google.com/citations?user=juRQtRgAAAAJ&hl=en&oi=ao), [Anders Nymark Christensen](https://scholar.google.com/citations?user=bkWG4OYAAAAJ&hl=en&oi=ao), [Martin Tolsgaard](https://scholar.google.com/citations?user=SVu_X0sAAAAJ&hl=en&oi=ao), [Aasa Feragen](https://scholar.google.com/citations?user=MNDVpoUAAAAJ&hl=en&oi=ao)
 
+[[ASMUS @ MICCAI 2023 Best Paper Honorable Mention]](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_6)
 
 ![SA-SonoNet](assets/method.png)
-
-[[ASMUS@MICCAI 2023 Best Paper Honorable Mention]](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_6)
-
 
 ## Abstract
 Spontaneous preterm birth prediction from transvaginal ultrasound images is a challenging task of profound interest in gynecological obstetrics. Existing works are often validated on small datasets and may lack validation of model calibration and interpretation. In this paper, we present a comprehensive study of methods for predicting preterm birth from transvaginal ultrasound using a large clinical dataset. We propose a shape- and spatially-aware network that leverages segmentation predictions and pixel spacing information as additional input to enhance predictions. Our model demonstrates competitive performance on our benchmark, providing additional interpretation and achieving the highest performance across both clinical and machine learning baselines. Through our evaluation, we provide additional insights which we hope may lead to more accurate predictions of preterm births going forwards.
